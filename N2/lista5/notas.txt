@@ -1,0 +1,6 @@
+Estudar Python todos os dias.
+    Praticar exercícios das listas.
+    Revisar orientação a objetos.
+    Ler sobre bibliotecas padrão.
+    Fazer projetos pequenos para fixar o conteúdo.
+    

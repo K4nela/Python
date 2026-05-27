@@ -1,0 +1,11 @@
+leite
+    pão
+    ovos
+    manteiga
+    arroz
+    feijão
+    macarrão
+    azeite
+    sal
+    açúcar
+    

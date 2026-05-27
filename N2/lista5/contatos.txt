@@ -1,0 +1,5 @@
+Nome: Ana Silva | (11)98765-4321 | ana.silva@email.com
+    Nome: Bruno Costa | (21)91234-5678 | bruno.costa@gmail.com
+    Nome: Carla Souza | (31)3456-7890 | carla.souza@outlook.com
+    Nome: Diego Lima | (41)99876-5432 | diego.lima@yahoo.com
+    
